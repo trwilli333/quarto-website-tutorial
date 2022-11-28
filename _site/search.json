@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Making shareable documents with Quarto",
     "section": "",
-    "text": "My name is Tim. This is a test sentence.\nIt’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.\nCreating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that’s where we’ll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too – there are links throughout."
+    "text": "My name is Tim. This is a test sentence..\nIt’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.\nCreating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that’s where we’ll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too – there are links throughout."
   },
   {
     "objectID": "index.html#what-is-quarto",
@@ -221,7 +221,7 @@
     "href": "quarto-workflows/rstudio.html",
     "title": "From RStudio",
     "section": "",
-    "text": "The RStudio software (called an IDE, integrated development environment) is an excellent way to edit files and interface with GitHub. Plus, as it is made by the same folks who make Quarto, it has many integrated features for streamlining your workflow with Quarto, including how it previews your edits and provides debugging support for yaml! Quarto's RStudio tutorials has great instructions on getting started with RStudio, including computations and authoring.\nHere is what you’ll need to do to set up and use RStudio with Quarto."
+    "text": "The RStudio software (called an IDE, integrated development environment) is an excellent way to edit files and interface with GitHub. Plus, as it is made by the same folks who make Quarto, it has many integrated features for streamlining your workflow with Quarto, including how it previews your edits and provides debugging support for yaml! Quarto’s RStudio tutorials has great instructions on getting started with RStudio, including computations and authoring.\nHere is what you’ll need to do to set up and use RStudio with Quarto."
   },
   {
     "objectID": "quarto-workflows/rstudio.html#setup",
